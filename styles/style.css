@@ -22,6 +22,7 @@
 #section1 {
     background-image: url("/images/bgpic.jpg");
     background-size: cover;
+    border-bottom: 0.4px solid rgb(169, 169, 169);
 }
 
 .bgimg{
@@ -32,21 +33,24 @@
 #section2{
     background-color: var(--backgroundsec);
     color: var(--text);
+    border-bottom: 0.4px solid rgb(169, 169, 169);
 }
 
 #section3{
-    background-color: var(--backgroundpri);
+    background-color: var(--backgroundsec);
+    border-bottom: 0.4px solid rgb(169, 169, 169);
 }
 
 .c1{
     border-radius: 50% !important;
-    background-color: var(--backgroundpri);
+    background-color: var(--backgroundsec);
     /* background-color: var(--backgroundsec); */
 }
 
 #section4{
     background-color: var(--backgroundsec);
     color: var(--text);
+    border-bottom: 0.4px solid rgb(169, 169, 169);
 }
 
 #section5{
