@@ -57,3 +57,12 @@
     background-color: rgb(100, 133, 161) !important;
     color: white;
 }
+
+.c2{
+    background-color: #0971b63f;
+    color: white;
+}
+
+.c2:hover {
+    background-color: #0971b68a;
+}
