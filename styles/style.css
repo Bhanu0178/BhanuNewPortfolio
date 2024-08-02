@@ -11,12 +11,14 @@
 
 :root {
     --backgroundpri: #7EA1FF;
-    --backgroundsec: #03346E;
+    /* --backgroundsec: #03346E; */
+    --backgroundsec: #001938;
     --text: #EEEEEE;
 }
 
 .navcolor{
-    background-color: #1a5fb3 !important;
+    /* background-color: #1a5fb3 !important; */
+    background-color: #6b7f97 !important;
 }
 
 #section1 {
@@ -26,7 +28,8 @@
 }
 
 .bgimg{
-    background-color: rgba(0, 0, 0, 0.7);
+    /* background-color: rgba(0, 0, 0, 0.7); */
+    background-color: #001938b2;
     color: var(--text);
 }
 
@@ -54,15 +57,15 @@
 }
 
 #section5{
-    background-color: rgb(100, 133, 161) !important;
+    background-color: rgb(51, 62, 72) !important;
     color: white;
 }
 
 .c2{
-    background-color: #0971b63f;
+    background-color: #6b7f9733;
     color: white;
 }
 
 .c2:hover {
-    background-color: #0971b68a;
+    background-color: #6b7f9779;
 }
