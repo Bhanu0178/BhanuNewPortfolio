@@ -5,19 +5,17 @@
     margin: 0;
     padding: 0;
     font-family: "Kanit", sans-serif;
-  font-style: normal;
+    font-style: normal;
     letter-spacing: 0.6px;
 }
 
 :root {
     --backgroundpri: #7EA1FF;
-    /* --backgroundsec: #03346E; */
     --backgroundsec: #001938;
     --text: #EEEEEE;
 }
 
 .navcolor {
-    /* background-color: #1a5fb3 !important; */
     background-color: #1a5fb3 !important;
 }
 
@@ -28,7 +26,6 @@
 }
 
 .bgimg {
-    /* background-color: rgba(0, 0, 0, 0.7); */
     background-color: #001938b2;
     color: var(--text);
 }
@@ -47,9 +44,8 @@
 .c1 {
     background-color: #6b7f9733;
     color: white;
-    
-    /* background-color: var(--backgroundsec); */
 }
+
 .c1:hover {
     background-color: #6b7f9779;
 }
@@ -74,17 +70,17 @@
     background-color: #6b7f9779;
 }
 
-#section6{
- background-color: var(--backgroundsec);
- color: var(--text);
- border-bottom: 0.4px solid rgb(169, 169, 169);
+#section6 {
+    background-color: var(--backgroundsec);
+    color: var(--text);
+    border-bottom: 0.4px solid rgb(169, 169, 169);
 }
 
-.asidul{
+.asidul {
     list-style: none !important;
 }
 
-.asid{
+.asid {
     color: var(--text) !important;
     width: 10%;
     position: fixed;
