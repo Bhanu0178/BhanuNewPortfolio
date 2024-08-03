@@ -47,6 +47,7 @@
 .c1 {
     background-color: #6b7f9733;
     color: white;
+    
     /* background-color: var(--backgroundsec); */
 }
 .c1:hover {
