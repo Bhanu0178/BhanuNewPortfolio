@@ -72,3 +72,21 @@
 .c2:hover {
     background-color: #6b7f9779;
 }
+
+#section6{
+ background-color: var(--backgroundsec);
+ color: var(--text);
+ border-bottom: 0.4px solid rgb(169, 169, 169);
+}
+
+.asidul{
+    list-style: none !important;
+}
+
+.asid{
+    color: var(--text) !important;
+    width: 10%;
+    position: fixed;
+    right: 0.2rem;
+    bottom: 5rem;
+}
